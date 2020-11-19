@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00",
-    "time": 84
+    "time": 131
   },
   {
     "name": "new_pressmedia",
@@ -13,6 +13,6 @@
     "slug": "new-pressmedia",
     "status": "up",
     "uptime": "100.00",
-    "time": 841
+    "time": 765
   }
 ]
