@@ -7,7 +7,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: new_pressmedia
-    url: 13.125.155.96
+    url: http://www.naver.com
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
