@@ -4,8 +4,6 @@ repo: upptime_test # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: new_pressmedia
     url: http://13.125.155.96
 
