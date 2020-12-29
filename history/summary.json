@@ -2,9 +2,31 @@
   {
     "name": "new_pressmedia",
     "url": "http://13.125.155.96",
+    "icon": "https://favicons.githubusercontent.com/13.125.155.96",
     "slug": "new-pressmedia",
     "status": "up",
-    "uptime": "93.51%",
-    "time": 1150
+    "uptime": "93.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.74%",
+    "uptimeMonth": "97.69%",
+    "uptimeYear": "93.67%",
+    "time": 1442,
+    "timeDay": 761,
+    "timeWeek": 768,
+    "timeMonth": 861,
+    "timeYear": 1442,
+    "dailyMinutesDown": {
+      "2020-12-27": 140,
+      "2020-12-26": 188,
+      "2020-12-17": 292,
+      "2020-12-16": 138,
+      "2020-12-14": 129,
+      "2020-12-13": 20,
+      "2020-12-11": 53,
+      "2020-12-10": 52,
+      "2020-11-24": 293,
+      "2020-11-23": 958,
+      "2020-11-22": 1269
+    }
   }
 ]
