@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/13.125.155.96",
     "slug": "new-pressmedia",
     "status": "down",
-    "uptime": "19.06%",
+    "uptime": "19.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "14.55%",
     "time": 400,
-    "timeDay": 369,
-    "timeWeek": 368,
+    "timeDay": 371,
+    "timeWeek": 369,
     "timeMonth": 360,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2022-05-14": 40,
+      "2022-05-15": 43,
+      "2022-05-14": 1440,
       "2022-05-13": 1440,
       "2022-05-12": 1440,
       "2022-05-11": 1440,
@@ -327,8 +328,7 @@
       "2021-05-19": 1440,
       "2021-05-18": 1440,
       "2021-05-17": 1440,
-      "2021-05-16": 1440,
-      "2021-05-15": 1440
+      "2021-05-16": 1440
     }
   }
 ]
