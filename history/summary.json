@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/13.125.155.96.ico",
     "slug": "new-pressmedia",
     "status": "up",
-    "uptime": "7.29%",
+    "uptime": "7.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "58.66%",
-    "uptimeYear": "6.46%",
+    "uptimeMonth": "61.94%",
+    "uptimeYear": "6.73%",
     "time": 451,
-    "timeDay": 342,
-    "timeWeek": 330,
-    "timeMonth": 397,
-    "timeYear": 380,
+    "timeDay": 459,
+    "timeWeek": 342,
+    "timeMonth": 400,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2025-08-13": 960,
       "2025-08-12": 1440,
@@ -357,8 +357,7 @@
       "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
-      "2024-08-31": 1440,
-      "2024-08-30": 1440
+      "2024-08-31": 1440
     }
   }
 ]
